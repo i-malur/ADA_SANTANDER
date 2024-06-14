@@ -1,0 +1,3 @@
+- [ ] Organizar planilha de horário
+- [ ] Terminar curso ADA
+- [ ] Resolver Oracle One
